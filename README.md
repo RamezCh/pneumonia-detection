@@ -67,8 +67,6 @@ Here is a sample output from the Gradio interface showing the AI prediction and 
 
 ![Gradio Demo Screenshot 1](Gradio_Demo_SS1.png)
 
-![Gradio Demo Screenshot 2](Gradio_Demo_SS2.png)
-
 ---
 
 ## 📌 Notes
